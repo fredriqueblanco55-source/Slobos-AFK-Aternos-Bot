@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " xCreateSMPx.aternos.me:32072",
+    "ip": "xCreateSMPx.aternos.me:32072",
     "port": 32072,
     "version": "",
     "try-creative": false
